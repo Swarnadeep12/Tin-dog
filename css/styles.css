@@ -107,6 +107,9 @@ h3{
     padding: 10% 15%;
     text-align: center;
 }
+#pricing p{
+    font-size: large;
+}
 #cta{
     padding: 5% 15%;
     text-align: center;
@@ -125,7 +128,7 @@ h3{
 
 
 /* *****************************MEDIA-QUEARY************************************************* */
- @media (max-width: 1028px)
+ @media (max-width: 1020px)
  {
     #title{
         text-align: center;
